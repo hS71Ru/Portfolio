@@ -1,11 +1,4 @@
-# Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobiwave/simplefolio?color=blue)](https://github.com/cobiwave/simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobiwave/simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobiwave/simplefolio)
-
 ## A minimal portfolio template for Developers!
-
-<h2 align="center">
-  <img src="https://github.com/cobiwave/gatsby-simplefolio/blob/master/examples/example.gif" alt="Simplefolio" width="600px" />
-  <br>
-</h2>
 
 ## Features
 
@@ -46,63 +39,6 @@ Also, you can use [Yarn](https://yarnpkg.com/) instead of NPM ☝️
 ```
 yarn@v1.22.10 or higher
 ```
-
----
-
-## How To Use 🔧
-
-From your command line, first clone Simplefolio:
-
-```bash
-# Clone the repository
-$ git clone https://github.com/cobiwave/simplefolio
-
-# Move into the repository
-$ cd simplefolio
-
-# Remove the current origin repository
-$ git remote remove origin
-```
-
-After that, you can install the dependencies either using NPM or Yarn.
-
-Using NPM: Simply run the below commands.
-
-```bash
-# 2022 Update - Fix Dependencies
-$ npm audit fix
-$ npm i @parcel/transformer-sass
-
-# Install dependencies
-$ npm install
-
-# Start the development server
-$ npm start
-```
-
-Using Yarn: Be aware of that you'll need to delete the `package-lock.json` file before executing the below commands.
-
-```bash
-# Install dependencies
-$ yarn
-
-# Start the development server
-$ yarn start
-```
-
-**NOTE**:
-If your run into issues installing the dependencies with NPM, use this below command:
-
-```bash
-# Install dependencies with all permissions
-$ sudo npm install --unsafe-perm=true --allow-root
-```
-
-Once your server has started, go to this url `http://localhost:1234/` to see the portfolio locally. It should look like the below screenshot.
-
-<h2 align="center">
-  <img src="https://github.com/cobiwave/gatsby-simplefolio/blob/master/examples/example.png" alt="Simplefolio" width="100%">
-</h2>
 
 ---
 
@@ -330,11 +266,6 @@ Once you finish your setup. You need to put your website online!
 
 I highly recommend to use [Netlify](https://netlify.com) because it is super easy.
 
-## Others versions 👥
-
-[Gatsby Simplefolio](https://github.com/cobiwave/gatsby-simplefolio) by [Jacobo Martinez](https://github.com/cobiwave)\
-[Ember.js Simplefolio](https://github.com/sernadesigns/simplefolio-ember) by [Michael Serna](https://github.com/sernadesigns)
-
 ## Technologies used 🛠️
 
 - [Parcel](https://parceljs.org/) - Bundler
@@ -345,11 +276,11 @@ I highly recommend to use [Netlify](https://netlify.com) because it is super eas
 
 ## Authors
 
-- **Jacobo Martinez** - [https://github.com/cobiwave](https://github.com/cobiwave)
+- **Harsh Singh** - [https://github.com/hS71Ru]
 
 ## Status
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3a029bfd-575c-41e5-8249-c864d482c2e5/deploy-status)](https://app.netlify.com/sites/the-simplefolio/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3a029bfd-575c-41e5-8249-c864d482c2e5/deploy-status)]
 
 ## License 📄
 
@@ -357,4 +288,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments 🎁
 
-I was motivated to create this project because I wanted to contribute on something useful for the dev community, thanks to [ZTM Community](https://github.com/zero-to-mastery) and [Andrei](https://github.com/aneagoie)
+I was motivated to create this project because I wanted to contribute on something useful for the community
