@@ -10,8 +10,6 @@
 ⚡️ Optimized with Parcel\
 ⚡️ Well organized documentation
 
-To view the demo: **[click here](https://the-simplefolio.netlify.app/)**
-
 ---
 
 ## Why do you need a portfolio? ☝️
@@ -273,10 +271,6 @@ I highly recommend to use [Netlify](https://netlify.com) because it is super eas
 - [Sass](https://sass-lang.com/documentation) - CSS extension language
 - [ScrollReveal.js](https://scrollrevealjs.org/) - JavaScript library
 - [Tilt.js](https://gijsroge.github.io/tilt.js/) - JavaScript tiny parallax library
-
-## Authors
-
-- **Harsh Singh** - [https://github.com/hS71Ru]
 
 ## Status
 
