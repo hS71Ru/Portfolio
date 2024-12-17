@@ -5,6 +5,7 @@
   "description": "A clean, beautiful and responsive portfolio template for Developers!",
   "source": "src/index.html",
   "scripts": {
+    "start": "parcel src/index.html",
     "develop": "parcel",
     "build": "parcel build"
   },
